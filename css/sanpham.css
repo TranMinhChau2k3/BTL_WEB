@@ -1,0 +1,24 @@
+.dropdown-menu {
+  position: unset;
+  display: block;
+}
+.banner {
+  display: flex;
+  justify-content: center; /* căn giữa theo chiều ngang */
+  align-items: center; /* căn giữa theo chiều dọc */
+}
+.banner {
+  margin: 0 auto; /* tự động căn giữa theo chiều ngang */
+  text-align: center; /* căn giữa nội dung trong trường hợp là văn bản */
+}
+.banner {
+  width: 100vw; /* Chiều rộng 100% của viewport */
+  height: auto; /* Chiều cao tự động điều chỉnh tùy theo nội dung */
+}
+.banner {
+  width: 100vw;
+  height: auto;
+  display: flex; /* Sử dụng flexbox */
+  justify-content: center; /* Căn giữa theo chiều ngang */
+  align-items: center; /* Căn giữa theo chiều dọc */
+}
